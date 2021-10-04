@@ -1,6 +1,6 @@
 {
   "homepage": "https://axellesarray.github.io/random-quote-machine/",
-  "name": "fccrandom-quote-machine",
+  "name": "random-quote-machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
